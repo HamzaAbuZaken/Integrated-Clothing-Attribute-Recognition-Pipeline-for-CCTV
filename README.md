@@ -8,7 +8,7 @@ This project integrates three computer vision pipelines into a unified CCTV-base
 
 The following diagram illustrates the overall architecture of the integrated system, from CCTV video preprocessing to the final prediction and result storage.
 
-Clothing Analysis Pipeline Infographic.png
+![Integrated Pipeline Results](docs/Results.png)
 
 *Figure 1. Overall architecture of the integrated CCTV-based clothing analysis system.*
 
